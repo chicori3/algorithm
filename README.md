@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/chicori3/algorithm/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/chicori3/algorithm/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/chicori3/algorithm/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/chicori3/algorithm/tree/master/0739-daily-temperatures) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chicori3/algorithm/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chicori3/algorithm/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chicori3/algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chicori3/algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/chicori3/algorithm/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/chicori3/algorithm/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chicori3/algorithm/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chicori3/algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
@@ -52,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/chicori3/algorithm/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chicori3/algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
