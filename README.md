@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/chicori3/algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/chicori3/algorithm/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/chicori3/algorithm/tree/master/0739-daily-temperatures) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/chicori3/algorithm/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chicori3/algorithm/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chicori3/algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chicori3/algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/chicori3/algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/chicori3/algorithm/tree/master/0739-daily-temperatures) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/chicori3/algorithm/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chicori3/algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chicori3/algorithm/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/chicori3/algorithm/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/chicori3/algorithm/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
