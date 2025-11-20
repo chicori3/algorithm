@@ -1,21 +1,17 @@
 class Solution {
     fun timeRequiredToBuy(tickets: IntArray, k: Int): Int {
-        var seconds = 0
-        val clone = tickets.clone()
-
-        while (clone[k] > 0) {
-            for (i in clone.indices) {
-                if (clone[i] > 0) {
-                    clone[i]--
-                    seconds++
+        return tickets.mapIndexed { index, _ ->
+            when {
+                k > index -> {
+                    min(tickets[index], tickets[k])
                 }
-
-                if (clone[k] == 0) {
-                    return seconds
+                k < index -> {
+                    min(tickets[index], tickets[k] - 1)
+                }
+                else -> {
+                    tickets[k]
                 }
             }
-        }
-
-        return 0
+        }.sum()
     }
 }
