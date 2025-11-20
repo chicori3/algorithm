@@ -13,11 +13,8 @@ class Solution {
             }
         }
 
-        for (i in nums.indices.reversed()) {
-            if (zeroCount > 0) {
-                nums[i] = 0
-                zeroCount--
-            }
+        for (i in index until nums.size) {
+            nums[i] = 0
         }
     }
 }
