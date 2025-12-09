@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/chicori3/algorithm/tree/master/0844-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chicori3/algorithm/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chicori3/algorithm/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/chicori3/algorithm/tree/master/2058-concatenation-of-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chicori3/algorithm/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/chicori3/algorithm/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/chicori3/algorithm/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/chicori3/algorithm/tree/master/0844-backspace-string-compare) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/chicori3/algorithm/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chicori3/algorithm/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chicori3/algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chicori3/algorithm/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/chicori3/algorithm/tree/master/0844-backspace-string-compare) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/chicori3/algorithm/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -104,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chicori3/algorithm/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chicori3/algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/chicori3/algorithm/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/chicori3/algorithm/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
