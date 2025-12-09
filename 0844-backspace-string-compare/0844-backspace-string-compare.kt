@@ -18,6 +18,6 @@ class Solution {
             stacking(stackB, it)
         }
 
-        return stackA.joinToString { it.toString() } == stackB.joinToString { it.toString() }
+        return stackA == stackB
     }
 }
