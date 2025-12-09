@@ -2,20 +2,18 @@ class Solution {
     fun backspaceCompare(s: String, t: String): Boolean {
         val stackA = ArrayDeque<Char>()
         val stackB = ArrayDeque<Char>()
-        fun stacking(stack: ArrayDeque<Char>, c: Char): ArrayDeque<Char> {
+
+        s.forEach { c ->
             when (c) {
-                '#' -> stack.removeFirstOrNull()
-                else -> stack.addFirst(c)
+                '#' -> if (stackA.isNotEmpty()) stackA.removeFirst()
+                else -> stackA.addFirst(c)
             }
-
-            return stack
         }
-
-        s.forEach {
-            stacking(stackA, it)
-        }
-        t.forEach {
-            stacking(stackB, it)
+        t.forEach { c ->
+            when (c) {
+                '#' -> if (stackB.isNotEmpty()) stackB.removeFirst()
+                else -> stackB.addFirst(c)
+            }
         }
 
         return stackA == stackB
