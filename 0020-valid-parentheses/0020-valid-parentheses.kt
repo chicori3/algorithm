@@ -1,24 +1,15 @@
 class Solution {
     fun isValid(s: String): Boolean {
         val stack = ArrayDeque<Char>()
+        val pairs = mapOf(')' to '(', '}' to '{', ']' to '[')
 
-        s.toCharArray().forEach {
-            when (it) {
-                '(', '{', '[' -> stack.addFirst(it)
-                ')' -> {
-                    if (stack.isEmpty() || stack.first() != '(') return false
-                    stack.removeFirst()
-                }
-
-                '}' -> {
-                    if (stack.isEmpty() || stack.first() != '{') return false
-                    stack.removeFirst()
-                }
-
-                ']' -> {
-                    if (stack.isEmpty() || stack.first() != '[') return false
-                    stack.removeFirst()
-
+        for (char in s) {
+            when (char) {
+                '(', '{', '[' -> stack.addFirst(char)
+                ')', '}', ']' -> {
+                    if (stack.isEmpty() || stack.removeFirst() != pairs[char]) {
+                        return false
+                    }
                 }
             }
         }
