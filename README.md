@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chicori3/algorithm/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chicori3/algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chicori3/algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/chicori3/algorithm/tree/master/0232-implement-queue-using-stacks) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chicori3/algorithm/tree/master/0020-valid-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/chicori3/algorithm/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
